@@ -1,0 +1,9 @@
+[submodule "AI_quarto"]
+	path = AI_quarto
+	url = git@github.com:marienfressinaud/AI_quarto.git
+[submodule "AI_Puzzle-Solver"]
+	path = AI_Puzzle-Solver
+	url = git@github.com:marienfressinaud/AI_Puzzle-Solver.git
+[submodule "AI_pso"]
+	path = AI_pso
+	url = git@github.com:marienfressinaud/AI_pso.git
